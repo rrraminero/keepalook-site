@@ -1,0 +1,35 @@
+baseURL = "https://keepalook.com/"
+locale = "en-us"
+title = "Keep A Look"
+theme = "PaperMod"
+paginate = 10
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[params]
+env = "production"
+description = "Share information, best practices, and DIY tricks"
+author = "Ramin"
+keywords = ["blog", "diy", "best practices", "tips"]
+homeTitle = "Keep A Look"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:contact@keepalook.com"
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 20
