@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Elegant dishwasher IKEA kitchen illustration">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f2f6f8" />
+      <stop offset="100%" stop-color="#dbe5ea" />
+    </linearGradient>
+    <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#c8d5df" />
+      <stop offset="100%" stop-color="#e9eff2" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg3)" rx="30" />
+  <rect x="220" y="180" width="760" height="420" rx="38" fill="#ffffff" opacity="0.96" />
+  <rect x="320" y="240" width="280" height="320" rx="28" fill="url(#steel)" />
+  <rect x="360" y="280" width="200" height="220" rx="18" fill="#f8fbfd" />
+  <rect x="380" y="320" width="160" height="16" rx="8" fill="#b0c5d1" />
+  <rect x="380" y="360" width="160" height="16" rx="8" fill="#b0c5d1" />
+  <rect x="380" y="400" width="160" height="16" rx="8" fill="#b0c5d1" />
+  <circle cx="280" cy="360" r="28" fill="#b0c5d1" />
+  <circle cx="280" cy="360" r="14" fill="#fbfbfb" />
+  <path d="M660 280 h220 v220 h-220 z" fill="#c9d6de" rx="24" />
+  <path d="M700 320 h140 v120 h-140 z" fill="#f8fbfd" rx="18" />
+  <path d="M760 360 l40 0" stroke="#5b768a" stroke-width="14" stroke-linecap="round" />
+  <path d="M760 410 l40 0" stroke="#5b768a" stroke-width="14" stroke-linecap="round" />
+  <path d="M760 460 l40 0" stroke="#5b768a" stroke-width="14" stroke-linecap="round" />
+  <text x="240" y="620" font-family="Inter, sans-serif" font-weight="700" font-size="52" fill="#325066">Designed for IKEA Method kitchens</text>
+</svg>
