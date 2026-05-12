@@ -2,7 +2,14 @@ baseURL = "https://keepalook.com/"
 locale = "en-us"
 title = "Keep A Look"
 theme = "PaperMod"
-paginate = 10
+
+[pagination]
+  pagerSize = 10
+
+[params.label]
+text = "Keep A Look"
+icon = "/images/logo-mark.svg"
+iconHeight = 32
 
 [outputs]
 home = ["HTML", "RSS"]
