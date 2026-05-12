@@ -1,5 +1,4 @@
 [build]
-  base = "keepalook-site"
   publish = "public"
   command = "hugo"
 
