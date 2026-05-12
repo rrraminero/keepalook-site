@@ -2,6 +2,11 @@
 date = '2026-05-11T12:06:20+02:00'
 draft = false
 title = 'About'
+
+[cover]
+image = "/images/cover-about.jpg"
+alt = "Tools and workspace for DIY projects"
+caption = "Practical advice with polished presentation"
 +++
 
 ## About Keep A Look
