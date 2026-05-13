@@ -8,7 +8,7 @@ theme = "PaperMod"
 
 [params.label]
 text = "Keep A Look"
-icon = "/images/logo-mark.svg"
+icon = "/images/Logo_Keepalook.png"
 iconHeight = 32
 
 [outputs]
