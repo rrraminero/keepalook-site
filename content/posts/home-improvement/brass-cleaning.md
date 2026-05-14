@@ -11,7 +11,7 @@ description = 'Quick and easy methods to restore the shine to tarnished brass it
 
 Brass items around the house can lose their luster over time, but bringing them back to their original shine is easier than you might think.
 
-![Polished brass elements on elegant handrail](/images/brass-handrail.png)
+![Polished brass elements on elegant handrail](/images/brass-handrail_v2.png)
 
 ### Method 1: Lemon and Salt (Most Effective)
 
@@ -47,3 +47,4 @@ If you prefer commercial solutions, use a quality brass polish following the man
 - Use microfiber cloths exclusively—other materials can leave scratches
 
 **Pro tip:** Regular cleaning every 2-3 months is easier than removing heavy tarnish!
+

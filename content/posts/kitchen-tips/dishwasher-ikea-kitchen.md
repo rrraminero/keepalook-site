@@ -11,7 +11,7 @@ description = 'Expert guide to selecting and installing a dishwasher that fits p
 
 Installing a dishwasher in an IKEA Method kitchen requires careful planning. Here's everything you need to know to make the right choice.
 
-![Elegant modern kitchen with integrated dishwasher](/images/kitchen-dishwasher.png)
+![Elegant modern kitchen with integrated dishwasher](/images/kitchen-dishwasher_v2.png)
 
 ### Understanding IKEA Method Kitchen Constraints
 
@@ -124,3 +124,4 @@ I recommend hiring a professional for:
 - [ ] Delivery and installation date scheduled
 
 A well-chosen dishwasher integrates beautifully into your IKEA Method kitchen and provides years of reliable service. Take your time with the selection process—it's a worthwhile investment!
+
