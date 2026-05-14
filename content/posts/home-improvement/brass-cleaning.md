@@ -5,6 +5,9 @@ title = 'How to Get Brass Objects Shiny Again'
 categories = ['Home Improvement']
 tags = ['brass', 'cleaning', 'DIY']
 description = 'Quick and easy methods to restore the shine to tarnished brass items'
+
+[cover]
+image = '/images/brass-handrail_v2.png'
 +++
 
 ## How to Get Brass Objects Shiny Again

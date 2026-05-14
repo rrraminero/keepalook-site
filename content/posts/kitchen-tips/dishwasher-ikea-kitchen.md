@@ -5,6 +5,9 @@ title = 'Choosing the Right Dishwasher for an IKEA Method Kitchen'
 categories = ['Kitchen Tips']
 tags = ['dishwasher', 'IKEA', 'kitchen-design', 'appliances']
 description = 'Expert guide to selecting and installing a dishwasher that fits perfectly in your IKEA Method kitchen'
+
+[cover]
+image = '/images/kitchen-dishwasher_v2.png'
 +++
 
 ## Choosing the Right Dishwasher for an IKEA Method Kitchen

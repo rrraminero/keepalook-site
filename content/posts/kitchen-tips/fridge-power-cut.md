@@ -5,6 +5,9 @@ title = 'Ensure Your Fridge Content Is Safe After a Power Cut When Away'
 categories = ['Kitchen Tips']
 tags = ['fridge', 'food-safety', 'power-outage', 'tips']
 description = 'Protect your food from spoiling during unexpected power outages while you are away from home'
+
+[cover]
+image = '/images/fridge-organized_v2.png'
 +++
 
 ## Ensure Your Fridge Content Is Safe After a Power Cut When Away
