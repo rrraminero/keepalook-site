@@ -11,7 +11,7 @@ description = 'Protect your food from spoiling during unexpected power outages w
 
 An unexpected power cut while you're away can result in wasted food and potential health risks. Here are proven strategies to minimize loss and maintain food safety.
 
-![Elegant fridge with organized and fresh content](/images/fridge-organized.png)
+![Elegant fridge with organized and fresh content](/images/fridge-organized_v2.png)
 
 ### Before You Leave
 
@@ -79,3 +79,4 @@ Keep these items on hand:
 - Power outage notification system
 
 **Remember:** When in doubt about food safety, throw it out. It's better to waste food than risk foodborne illness.
+
